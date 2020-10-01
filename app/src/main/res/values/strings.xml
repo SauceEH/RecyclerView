@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="titulo">LISTA DE ALUMNOS</string>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Ciclo">Ciclo</string>
+    <string name="Curso">Curso</string>
+</resources>
